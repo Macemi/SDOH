@@ -17,7 +17,11 @@ Leveraging Social Determinants of Health (SDOH) Analytics to Address Healthcare 
 This project demonstrates how **data-driven approaches** can:
 - Identify gaps in healthcare access and outcomes  
 - Inform targeted interventions and policy decisions  
-- Improve **health equity** for vulnerable populations  
+- Improve **health equity** for vulnerable populations
+
+  <img width="1326" height="739" alt="Screenshot 2025-11-13 155405" src="https://github.com/user-attachments/assets/228b7b8c-1abc-44ea-a1a9-57f8fa790e74" />
+<img width="1318" height="736" alt="Screenshot 2025-11-13 155416" src="https://github.com/user-attachments/assets/d0ad1363-41b8-4903-8b1c-7cfad2e2db43" />
+
 
 **Geographic Focus**: The Gambia (regional geospatial analysis)
 
@@ -41,7 +45,8 @@ These barriers hinder timely decision-making and effective intervention planning
 
 ## Tools
 - **Microsoft Excel** – Data storage and initial structuring  
-- **Power BI** – Interactive dashboards with geospatial mapping and trend analysis  
+- **Power BI** – Interactive dashboards with geospatial mapping and trend analysis
+- **Power Bi Service** - For collaboration and schduled refresh
 - **Power Automate** – Workflow automation, data sync, real-time notifications  
 - **Microsoft Forms** – Real-time data collection from communities
 
